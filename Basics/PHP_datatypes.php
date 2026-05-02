@@ -30,7 +30,7 @@ echo $user["name"] ."<br>";
 
 // 6. Object
 class student{
-    public $name="SAro";
+    public $name="Saro";
     public $age=24;
 
 }
